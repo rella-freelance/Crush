@@ -1,5 +1,4 @@
 import time
-#not many libraries required 
 
 def crush_name():
     girl_name = ['Ann', 'Anne', 'Brent', 'Brenda', 'Amelia', 'Annelisa', 'Damaris', 'Dinah', 'Esther', 'Ester', 'Emily',
